@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = 'SBTableAlert'
   s.version      = '1.0.0'
-  s.license      =  :type => 'MIT' 
+  s.license      =  'MIT' 
   s.homepage     = 'https://github.com/blommegard/SBTableAlert'
   s.authors      =  'Simon Blommegård'
   s.summary      = 'A great looking UIAlertView with an UITableView inside.'
